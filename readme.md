@@ -1,6 +1,6 @@
 ## Controle de Gastos
 
-### Programa de Controle de Gastos domésticos
+### Programa de Controle de gastos domésticos
 
 #### Recursos estudados no projeto:
 
