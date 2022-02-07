@@ -3,4 +3,4 @@
 ### Programa de Controle de Gastos domésticos
 
 #### Recursos estudados no projeto:
-![alt text](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png)
+![image](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png = 250X91)
