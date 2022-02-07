@@ -3,4 +3,4 @@
 ### Programa de Controle de Gastos domésticos
 
 #### Recursos estudados no projeto:
-![image](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png = 250X91)
+<a href="https://www.pikpng.com/pngvi/ihwbxmT_mayank-grover-consultant-html-css-javascript-icons-clipart/" target="_blank">Mayank Grover Consultant - Html Css Javascript Icons Clipart @pikpng.com</a>
