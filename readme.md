@@ -4,4 +4,4 @@
 
 #### Recursos estudados no projeto:
 
-<img src="https://www.pikpng.com/pngl/m/266-2660463_mayank-grover-consultant-html-css-javascript-icons-clipart.png" alt="Mayank Grover Consultant - Html Css Javascript Icons Clipart@pikpng.com">
+<img src=https://banner2.cleanpng.com/20180329/xhe/kisspng-finance-financial-risk-financial-services-computer-finance-5abcb1c8e6b325.203127841522315720945.jpg>
